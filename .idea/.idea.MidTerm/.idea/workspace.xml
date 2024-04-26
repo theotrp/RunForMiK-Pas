@@ -7,15 +7,29 @@
     <projectFile>Intermediate/ProjectFiles/MidTerm.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9551f62d-5378-45e4-aa0c-81cc00e28188" name="Changes" comment="" />
+    <list default="true" id="9551f62d-5378-45e4-aa0c-81cc00e28188" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MidTerm/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MidTerm/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MidTerm/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MidTerm/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/ABP_Shooter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/Fire_Rifle_Shoot.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/Idle_Rifle_Aim.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/Idle_Rifle_Hip.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/Jog_Fwd_Rifle.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/ShooterGuy.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -24,14 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\turpi\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\turpi\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\turpi\\AppData\\Local\\Symbols\\src"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C++ Project.MidTerm">
     <configuration name="MidTerm" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -156,12 +178,14 @@
       <updated>1713845022846</updated>
       <workItem from="1713845026096" duration="57000" />
       <workItem from="1714037974184" duration="2000" />
+      <workItem from="1714108313969" duration="77000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
